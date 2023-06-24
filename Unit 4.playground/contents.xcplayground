@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Arrays'/>
+        <page name='Array Loop'/>
+        <page name='Exercise 1'/>
+        <page name='Car'/>
+        <page name='Exercise 2'/>
+        <page name='Cat'/>
+        <page name='Exercise 3A'/>
+        <page name='Structs pass by value'/>
+        <page name='Closures'/>
+        <page name='Exercise 2C'/>
+    </pages>
+</playground>
